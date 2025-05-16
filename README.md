@@ -53,16 +53,6 @@ client/
 
 ---
 
-## ⚙️ Installation & Setup
-
-1. **Clone the Repository**
-
-```bash
-git clone https://github.com/your-username/insurance360.git
-cd insurance360/client
-
-Visit http://localhost:3000 to view the app.
-
 🛠️ Upcoming Enhancements
  Full authentication system (admin, user roles)
 
